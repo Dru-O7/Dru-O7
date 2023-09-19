@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dru-o7&label=Profile%20views&color=0e75b6&style=flat" alt="dru-o7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dru-o7" alt="dru-o7" /></a> </p>
-
 - 🔭 I’m currently working on [Huffman-coding-Video-Encoder](https://github.com/Dru-O7/Huffman-coding-Video-Encoder.git)
 
 - 📫 How to reach me **umredkar123@gmail.com**
