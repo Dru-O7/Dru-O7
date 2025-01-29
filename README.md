@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dru-o7&label=Profile%20views&color=0e75b6&style=flat" alt="dru-o7" /> </p>
 
-- 🔭 I’m currently working on [Speech Timestamp](https://github.com/Dru-O7/Speech-Timestamp)
+- 🔭 I’m currently working on [Journal App](https://github.com/Dru-O7/JournalApp)
 
 - 🌱 I’m currently learning **React**
 
