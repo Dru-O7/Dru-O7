@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Journal App](https://github.com/Dru-O7/JournalApp)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Spring Boot**
 
 - 📫 How to reach me **umredkardhruv03@gmail.com**
 
