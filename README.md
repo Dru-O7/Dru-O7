@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">A passionate frontend developer from India and Cyber Security Enthusiast</h3>
+<h3 align="center">A passionate developer from India and Cyber Security Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dru-o7&label=Profile%20views&color=0e75b6&style=flat" alt="dru-o7" /> </p>
 
