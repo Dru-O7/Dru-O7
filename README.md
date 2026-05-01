@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dru-o7&label=Profile%20views&color=0e75b6&style=flat" alt="dru-o7" /> </p>
 
-- 🔭 I’m currently working on [IT Ticketing Application](https://github.com/Dru-O7/ticketing)
+- 🔭 I’m currently working on [IT Ticketing Application]([https://github.com/Dru-O7/ticketing](https://github.com/Dru-O7/ticketing-platform))
 
 - 📫 How to reach me **umredkardhruv03@gmail.com**
 
