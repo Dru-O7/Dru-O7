@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="t">
+  <title id="t">Dhruv Umredkar — Software Developer</title>
+  <rect width="1000" height="340" fill="#111111"/>
+  <!-- A: dominant white field -->
+  <rect x="10"  y="10"  width="610" height="230" fill="#FFFFFF"/>
+  <!-- B: red mass -->
+  <rect x="630" y="10"  width="360" height="150" fill="#E63946"/>
+  <!-- C / D -->
+  <rect x="630" y="170" width="250" height="70"  fill="#F8F9FA"/>
+  <rect x="890" y="170" width="100" height="70"  fill="#FFD166"/>
+  <!-- E / F / G -->
+  <rect x="10"  y="250" width="150" height="80"  fill="#1D3557"/>
+  <rect x="170" y="250" width="690" height="80"  fill="#FFFFFF"/>
+  <rect x="870" y="250" width="120" height="80"  fill="#F8F9FA"/>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" fill="#111111">
+    <text x="40" y="52" font-size="15" font-weight="700" letter-spacing="5">■ GITHUB / DRU-O7</text>
+    <text x="32" y="168" font-size="120" font-weight="900" letter-spacing="-2">DHRUV</text>
+    <text x="40" y="220" font-size="50" font-weight="800" letter-spacing="7">UMREDKAR</text>
+    <text x="196" y="297" font-size="17" font-weight="700" letter-spacing="2">■  SOFTWARE DEVELOPER</text>
+  </g>
+</svg>

@@ -1,32 +1,96 @@
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">A passionate Backend Developer and Cyber Security Enthusiast from India.</h3>
+<!-- ═══════════════ COMPOSITION Nº 1 — DHRUV UMREDKAR ═══════════════ -->
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dru-o7&label=Profile%20views&color=0e75b6&style=flat" alt="dru-o7" /> 
-</p>
+<img src="assets/header.svg" width="100%" alt="Dhruv Umredkar — Software Developer" />
 
-- 🔭 I’m currently working on [IT Ticketing Application](https://github.com/Dru-O7/ticketing-platform)
-- 📫 How to reach me: **umredkardhruv03@gmail.com**
+<!-- BAND I · ABOUT (wide white) | CONTACT (narrow, red patch) -->
+<table border="0" cellpadding="14" cellspacing="0" width="100%">
+<tr>
+<td width="66%" valign="top">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhruvsanjayumredkar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvsanjayumredkar" height="30" width="40" /></a>
-</p>
+### ■ ABOUT
 
-<h3 align="left">Languages and Tools:</h3>
+I'm **Dhruv**, a software developer and cyber security enthusiast from **India**. I like building reliable server-side systems and understanding how they break.
 
-<table>
-  <tr>
-    <td align="center"><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"/></a></td>
-    <td align="center"><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/></a></td>
-    <td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"/></a></td>
-    <td align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/></a></td>
-    <td align="center"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/></a></td>
-    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/></a></td>
-    <td align="center"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40"/></a></td>
-    <td align="center"><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"/></a></td>
-    <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/></a></td>
-    <td align="center"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40"/></a></td>
-    <td align="center"><a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"/></a></td>
-  </tr>
+▪ **Role** — Software Developer<br/>
+▪ **Interest** — Cyber Security<br/>
+▪ **Currently building** — [IT Ticketing Application](https://github.com/Dru-O7/ticketing-platform)
+
+</td>
+<td width="34%" valign="top">
+
+<img src="assets/block-red.svg" width="100%" alt="" />
+
+### □ CONTACT
+
+<a href="https://linkedin.com/in/dhruvsanjayumredkar"><img src="https://img.shields.io/badge/LINKEDIN-dhruvsanjayumredkar-1D3557?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=111111" alt="LinkedIn" /></a><br/>
+<a href="mailto:umredkardhruv03@gmail.com"><img src="https://img.shields.io/badge/EMAIL-umredkardhruv03%40gmail.com-E63946?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=111111" alt="Email" /></a>
+
+</td>
+</tr>
 </table>
+
+<img src="assets/rule.svg" width="100%" alt="" />
+
+<!-- BAND II · STACK (narrow label column | wide badge field) -->
+<table border="0" cellpadding="12" cellspacing="0" width="100%">
+<tr>
+<td width="24%" valign="top"><b>■ LANGUAGES</b></td>
+<td valign="top">
+      <img src="https://img.shields.io/badge/JAVA-1D3557?style=flat-square&logo=openjdk&logoColor=FFFFFF" alt="Java" />
+      <img src="https://img.shields.io/badge/GO-1D3557?style=flat-square&logo=go&logoColor=FFFFFF" alt="Go" />
+      <img src="https://img.shields.io/badge/C++-1D3557?style=flat-square&logo=cplusplus&logoColor=FFFFFF" alt="C++" />
+      <img src="https://img.shields.io/badge/BASH-1D3557?style=flat-square&logo=gnubash&logoColor=FFFFFF" alt="Bash" />
+</td>
+</tr>
+<tr>
+<td width="24%" valign="top"><b>■ FRAMEWORKS</b></td>
+<td valign="top">
+      <img src="https://img.shields.io/badge/SPRING-E63946?style=flat-square&logo=spring&logoColor=FFFFFF" alt="Spring" />
+      <img src="https://img.shields.io/badge/ANGULAR-E63946?style=flat-square&logo=angular&logoColor=FFFFFF" alt="Angular" />
+      <img src="https://img.shields.io/badge/REACT-E63946?style=flat-square&logo=react&logoColor=FFFFFF" alt="React" />
+</td>
+</tr>
+<tr>
+<td width="24%" valign="top"><b>■ DATA</b></td>
+<td valign="top">
+      <img src="https://img.shields.io/badge/POSTGRESQL-FFD166?style=flat-square&logo=postgresql&logoColor=111111" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MYSQL-FFD166?style=flat-square&logo=mysql&logoColor=111111" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MONGODB-FFD166?style=flat-square&logo=mongodb&logoColor=111111" alt="MongoDB" />
+</td>
+</tr>
+<tr>
+<td width="24%" valign="top"><b>■ TOOLING</b></td>
+<td valign="top">
+      <img src="https://img.shields.io/badge/DOCKER-111111?style=flat-square&logo=docker&logoColor=FFFFFF" alt="Docker" />
+</td>
+</tr>
+</table>
+
+<img src="assets/rule.svg" width="100%" alt="" />
+
+<!-- BAND III · SIGNAL (narrow, yellow patch) | STATS (wide) — split flipped against Band I -->
+<table border="0" cellpadding="14" cellspacing="0" width="100%">
+<tr>
+<td width="30%" valign="top">
+
+<img src="assets/block-yellow.svg" width="100%" alt="" />
+
+### □ SIGNAL
+
+<img src="https://komarev.com/ghpvc/?username=dru-o7&label=PROFILE%20VIEWS&color=111111&style=flat-square" alt="Profile views" /><br/>
+<a href="https://github.com/Dru-O7?tab=followers"><img src="https://img.shields.io/github/followers/Dru-O7?style=flat-square&label=FOLLOWERS&color=1D3557&labelColor=111111" alt="Followers" /></a>
+
+<img src="assets/block-blue.svg" width="100%" alt="" />
+
+</td>
+<td width="70%" valign="top">
+
+### ■ STATS
+
+<img src="assets/stats.svg" width="100%" alt="Dhruv's GitHub stats" />
+
+</td>
+</tr>
+</table>
+
+<img src="assets/footer.svg" width="100%" alt="" />

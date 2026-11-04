@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="70" viewBox="0 0 1000 70" role="img" aria-label="footer composition">
+  <rect width="1000" height="70" fill="#111111"/>
+  <rect x="10"  y="10" width="520" height="50" fill="#1D3557"/>
+  <rect x="590" y="10" width="250" height="50" fill="#FFFFFF"/>
+  <rect x="850" y="10" width="60"  height="50" fill="#FFD166"/>
+  <rect x="920" y="10" width="70"  height="50" fill="#F8F9FA"/>
+  <rect x="540" y="10" width="40"  height="50" fill="#E63946"/>
+</svg>
