@@ -1,6 +1,6 @@
 <!-- ═══════════════ COMPOSITION Nº 1 — DHRUV UMREDKAR ═══════════════ -->
 
-<img src="assets/header.svg" width="100%" alt="Dhruv Umredkar — Software Developer" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" /><img src="assets/header.svg" width="100%" alt="Dhruv Umredkar — Software Developer" /></picture>
 
 <!-- BAND I · ABOUT (wide white) | CONTACT (narrow, red patch) -->
 <table border="0" cellpadding="14" cellspacing="0" width="100%">
@@ -18,7 +18,7 @@ I'm **Dhruv**, a software developer and cyber security enthusiast from **India**
 </td>
 <td width="34%" valign="top">
 
-<img src="assets/block-red.svg" width="100%" alt="" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/block-red-dark.svg" /><img src="assets/block-red.svg" width="100%" alt="" /></picture>
 
 ### □ CONTACT
 
@@ -29,7 +29,7 @@ I'm **Dhruv**, a software developer and cyber security enthusiast from **India**
 </tr>
 </table>
 
-<img src="assets/rule.svg" width="100%" alt="" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg" /><img src="assets/rule.svg" width="100%" alt="" /></picture>
 
 <!-- BAND II · STACK (narrow label column | wide badge field) -->
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
@@ -66,31 +66,31 @@ I'm **Dhruv**, a software developer and cyber security enthusiast from **India**
 </tr>
 </table>
 
-<img src="assets/rule.svg" width="100%" alt="" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg" /><img src="assets/rule.svg" width="100%" alt="" /></picture>
 
 <!-- BAND III · SIGNAL (narrow, yellow patch) | STATS (wide) — split flipped against Band I -->
 <table border="0" cellpadding="14" cellspacing="0" width="100%">
 <tr>
 <td width="30%" valign="top">
 
-<img src="assets/block-yellow.svg" width="100%" alt="" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/block-yellow-dark.svg" /><img src="assets/block-yellow.svg" width="100%" alt="" /></picture>
 
 ### □ SIGNAL
 
 <img src="https://komarev.com/ghpvc/?username=dru-o7&label=PROFILE%20VIEWS&color=111111&style=flat-square" alt="Profile views" /><br/>
 <a href="https://github.com/Dru-O7?tab=followers"><img src="https://img.shields.io/github/followers/Dru-O7?style=flat-square&label=FOLLOWERS&color=1D3557&labelColor=111111" alt="Followers" /></a>
 
-<img src="assets/block-blue.svg" width="100%" alt="" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/block-blue-dark.svg" /><img src="assets/block-blue.svg" width="100%" alt="" /></picture>
 
 </td>
 <td width="70%" valign="top">
 
 ### ■ STATS
 
-<img src="assets/stats.svg" width="100%" alt="Dhruv's GitHub stats" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" /><img src="assets/stats.svg" width="100%" alt="Dhruv's GitHub stats" /></picture>
 
 </td>
 </tr>
 </table>
 
-<img src="assets/footer.svg" width="100%" alt="" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" /><img src="assets/footer.svg" width="100%" alt="" /></picture>

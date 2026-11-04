@@ -12,10 +12,15 @@ from pathlib import Path
 
 USER = os.environ.get("STATS_USER", "Dru-O7")
 TOKEN = os.environ.get("GITHUB_TOKEN")
-OUT = Path(__file__).resolve().parent.parent / "assets" / "stats.svg"
+ASSETS = Path(__file__).resolve().parent.parent / "assets"
 
 RED, BLUE, YELLOW = "#E63946", "#1D3557", "#FFD166"
-BLACK, WHITE, CANVAS = "#111111", "#FFFFFF", "#F8F9FA"
+# (line, field, canvas, ink) per theme: dark mode inverts the non-colors only
+THEMES = {
+    "stats.svg": ("#111111", "#FFFFFF", "#F8F9FA", "#111111"),
+    "stats-dark.svg": ("#FFFFFF", "#111111", "#000000", "#FFFFFF"),
+}
+WHITE = "#FFFFFF"
 FONT = "Helvetica Neue, Helvetica, Arial, sans-serif"
 
 
@@ -85,19 +90,19 @@ def cell(x, y, w, h, fill, label, value, ink, size):
     )
 
 
-def render(s):
+def render(s, line, field, canvas, ink):
     parts = [
-        f'<rect width="600" height="220" fill="{BLACK}"/>',
+        f'<rect width="600" height="220" fill="{line}"/>',
         # title band: red mass + small yellow patch
         f'<rect x="10" y="10" width="400" height="50" fill="{RED}"/>',
         f'<text x="26" y="42" font-size="16" font-weight="800" letter-spacing="4" fill="{WHITE}">■ STATS / {USER.upper()}</text>',
         f'<rect x="420" y="10" width="170" height="50" fill="{YELLOW}"/>',
         # dominant white field
-        cell(10, 70, 280, 140, WHITE, "CONTRIBUTIONS · 1Y", fmt(s["contrib"]), BLACK, 72),
+        cell(10, 70, 280, 140, field, "CONTRIBUTIONS · 1Y", fmt(s["contrib"]), ink, 72),
         # 2x2 minor grid
-        cell(300, 70, 140, 65, CANVAS, "STARS", fmt(s["stars"]), BLACK, 30),
-        cell(450, 70, 140, 65, WHITE, "COMMITS · 1Y", fmt(s["commits"]), BLACK, 30),
-        cell(300, 145, 140, 65, WHITE, "PULL REQS", fmt(s["prs"]), BLACK, 30),
+        cell(300, 70, 140, 65, canvas, "STARS", fmt(s["stars"]), ink, 30),
+        cell(450, 70, 140, 65, field, "COMMITS · 1Y", fmt(s["commits"]), ink, 30),
+        cell(300, 145, 140, 65, field, "PULL REQS", fmt(s["prs"]), ink, 30),
         cell(450, 145, 140, 65, BLUE, "REPOS", fmt(s["repos"]), WHITE, 30),
     ]
     return (
@@ -113,8 +118,9 @@ def main():
     except Exception as e:  # keep the previous card rather than publishing a broken one
         print(f"stats fetch failed: {e}", file=sys.stderr)
         return 1
-    OUT.write_text(render(stats), encoding="utf-8")
-    print(f"wrote {OUT}: {stats}")
+    for name, theme in THEMES.items():
+        (ASSETS / name).write_text(render(stats, *theme), encoding="utf-8")
+    print(f"wrote stats.svg + stats-dark.svg: {stats}")
     return 0
 
 
