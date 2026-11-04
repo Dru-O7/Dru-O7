@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 3 * * *" # daily
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/stats.py"
+      - ".github/workflows/stats.yml"
 
 permissions:
   contents: write
