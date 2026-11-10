@@ -23,7 +23,8 @@ jobs:
           python-version: "3.12"
       - name: Render stats cards (light + dark)
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # STATS_TOKEN (a personal token) also counts private contributions; falls back to public-only
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
         run: python scripts/stats.py
       - name: Commit if changed
         run: |
